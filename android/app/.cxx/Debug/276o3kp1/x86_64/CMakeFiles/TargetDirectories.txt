@@ -1,0 +1,2 @@
+C:/Users/admin/Documents/Final_year_project/SmartGov1/android/app/.cxx/Debug/276o3kp1/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/admin/Documents/Final_year_project/SmartGov1/android/app/.cxx/Debug/276o3kp1/x86_64/CMakeFiles/rebuild_cache.dir
